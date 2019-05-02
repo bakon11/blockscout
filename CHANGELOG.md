@@ -1,5 +1,13 @@
 ## Current
 
+## 1.3.13-beta
+
+### Features
+
+### Fixes
+
+- [#1881](https://github.com/poanetwork/blockscout/pull/1881) - fix: store solc versions locally for performance
+
 ## 1.3.12-beta
 
 Reverting of synchronous block counter, implemented in #1848
