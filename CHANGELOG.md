@@ -4,6 +4,8 @@
 
 ### Features
 
+- [#1933](https://github.com/poanetwork/blockscout/pull/1933) - add eth_BlockNumber json rpc method
+
 ### Fixes
 
 - [#1875](https://github.com/poanetwork/blockscout/pull/1875) - fix: resolve false positive constructor arguments
